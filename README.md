@@ -35,12 +35,24 @@ Chaque bus réalise **10 trajets aller-retour** (soit 20 passages dans le tunnel
 ## ▶️ Exécution
 
 ### 1. Prérequis
-
+en Python:
 - Python 3.x
+en C:
+-C/C++
+
 
 ### 2. Installation
-
+en Python:
 ```bash
 git clone https://github.com/faizaxlol/tunnel-bus-simulation.git
 cd tunnel-bus-simulation
 pip install -r requirements.txt
+
+en C:
+```bash
+wsl
+mkdir ~/projet
+cd ~/projet
+gcc -o tunnel tunnel_sync.c -lpthread
+./tunnel
+
