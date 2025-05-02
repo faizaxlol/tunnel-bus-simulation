@@ -4,7 +4,7 @@
 
 - [Djelloul Faiza] 
 - [Amzal Mayar]
-- [Nom Étudia]
+- [Chirane Tarek Abdelaziz]
 
 ## 📘 Contexte
 
